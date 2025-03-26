@@ -10,8 +10,9 @@ This repository is a **comprehensive guide** covering **Terraform from basic to 
 - **State Management & Locking**
 - **Meta Arguments: `for_each`, `depends_on`, Conditionals**
 - **Terraform Workspaces & Environment Setup**
-- **Deploying AWS Infrastructure:** EC2, S3, DynamoDB, EKS
+- **Deploying AWS Infrastructure:** EC2, S3, DynamoDB
 - **Custom Modules for Dev, Prod, and Test Environments**
+- **Creating EKS cluster on aws using terraform**
 
 ## 🛠️ Prerequisites
 Before using this repository, ensure you have the following installed:
