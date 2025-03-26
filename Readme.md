@@ -71,7 +71,7 @@ Terraform-Basic2Advanced/
 │   │   ├── s3.tf
 │   │   ├── variables.tf
 │
-│── EKS-using-terraform/     # EKS Cluster Deployment #Project yet to be added
+│── EKS-using-terraform/     # EKS Cluster Deployment
 │
 │── Extras/                  # Additional Terraform Scripts
 │   ├── ec2-using-variables.tf
