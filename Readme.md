@@ -87,7 +87,7 @@ Terraform-Basic2Advanced/
 │   ├── s3.tf
 │   ├── terraform.tf
 │
-│── README.md                # This Documentation
+│── README.md       
 ```
 
 ## 🎯 Key Implementations
