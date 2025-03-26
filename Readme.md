@@ -73,7 +73,11 @@ Terraform-Basic2Advanced/
 │   │   ├── variables.tf
 │
 │── EKS-using-terraform/     # EKS Cluster Deployment
-│
+│   ├── eks.tf
+│   ├── provider.tf
+│   ├── terraform.tf
+│   ├── variables.tf
+│   ├── vpc.tf
 │── Extras/                  # Additional Terraform Scripts
 │   ├── ec2-using-variables.tf
 │   ├── multiple-ec2-creation-via-count.tf
